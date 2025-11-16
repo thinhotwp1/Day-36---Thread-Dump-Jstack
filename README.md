@@ -1,6 +1,4 @@
-Dưới đây là bản **Readme đã được chỉnh sửa** cho rõ ràng, dễ đọc và trình bày sạch hơn:
 
----
 
 # Day 36 — Thread Dump & Jstack
 
