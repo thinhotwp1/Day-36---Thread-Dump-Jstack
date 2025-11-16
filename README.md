@@ -1,10 +1,11 @@
 
 
 # Day 36 — Thread Dump & Jstack
+Thread Dump có thể tạo thoải mái trên môi trường production mà không lo ảnh hưởng tới ứng dụng, khác với heap dump tạo nguyên một bộ nhớ heap bằng tới heap hiện tại của app có thể stop application từ vài giây đến vài phút, thread dump rất nhẹ và nhanh nên không làm ảnh hưởng.
 
 ## 🚀 Mục tiêu
 
-Hướng dẫn cách tạo **Thread Dump** bằng lệnh `jstack` để phân tích trạng thái luồng của ứng dụng Java.
+Hướng dẫn cách tạo **Thread Dump** bằng lệnh `jstack` để phân tích trạng thái luồng của ứng dụng Java. 
 
 ---
 
